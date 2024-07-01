@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bramermatt
 - 👀 I’m interested in ... Software Engineering!
-- 🌱 I’m currently learning ... Applied Linear Algebra (working towards a B.S. in Computer Science @ SNHU atm)
+- 🌱 I’m currently learning ... just finished my Bachelor's of Science in Computer Science @ SNHU!
 - 💞️ I’m looking to collaborate on ... anything involving code.
 - 📫 How to reach me ... email: m.bramer1096@outlook.com
 
